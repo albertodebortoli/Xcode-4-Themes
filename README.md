@@ -11,8 +11,8 @@ Xcode 4 themes I use.
 ## Installation
 Execute the following commands:
 
-mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+`mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+`cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
 
 Restart Xcode 4.
 
